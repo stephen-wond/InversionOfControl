@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoC", "IoC\IoC.csproj", "{57FD75A4-9E2E-447D-B37D-618B007ED2C7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCUnitTest", "IoCUnitTest\IoCUnitTest.csproj", "{31B4932F-A7F6-41E1-BCAC-7C675B17DA29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{57FD75A4-9E2E-447D-B37D-618B007ED2C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57FD75A4-9E2E-447D-B37D-618B007ED2C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57FD75A4-9E2E-447D-B37D-618B007ED2C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B4932F-A7F6-41E1-BCAC-7C675B17DA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B4932F-A7F6-41E1-BCAC-7C675B17DA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B4932F-A7F6-41E1-BCAC-7C675B17DA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B4932F-A7F6-41E1-BCAC-7C675B17DA29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

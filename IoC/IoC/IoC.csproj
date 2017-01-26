@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DontPrintWords.cs" />
+    <Compile Include="DoPrintWords.cs" />
+    <Compile Include="IPrintWords.cs" />
+    <Compile Include="PrintingService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
