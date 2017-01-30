@@ -1,6 +1,6 @@
 ﻿namespace IoC
 {
-    class DoPrintWords : IPrintWords
+    public class DoPrintWords : IPrintWords
     {
         public string Alphabet()
         {
